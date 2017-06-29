@@ -41,3 +41,9 @@ ul {
   width: auto;
   color: white;
 }
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
