@@ -1,11 +1,10 @@
 body {
   background-color: white;
+  text-align: center;
 }
 
 h1, h2, h3, p, ul {
   font-family: Helvetica;
-  text-align: center;
-
 }
 
 h1, h2, h3 {
@@ -40,6 +39,7 @@ ul {
   height: auto;
   width: auto;
   color: white;
+  margin: auto;
 }
 
 .footer {
