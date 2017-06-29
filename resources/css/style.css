@@ -20,3 +20,10 @@ h2 {
 h3 {
   font-size: 23px;
 }
+
+
+
+img {
+  margin: auto;
+  display: block;
+}
