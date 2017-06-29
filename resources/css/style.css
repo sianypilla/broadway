@@ -1,4 +1,4 @@
-h1, h2, h3, p {
+h1, h2, h3, p, ul {
   font-family: Helvetica;
   text-align: center;
   color: gray;
@@ -10,7 +10,6 @@ h1, h2, h3 {
 
 h1 {
   font-size: 70px;
-  font-color: white;
 }
 
 h2 {
@@ -24,4 +23,9 @@ h3 {
 img {
   margin: auto;
   display: block;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
 }
